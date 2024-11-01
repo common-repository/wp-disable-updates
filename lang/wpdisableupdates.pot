@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-18 04:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: disableupdates.php:39 wp-disable-updates/trunk/disableupdates.php:49
+#: wp-disable-updates/trunk/disableupdates.php:49
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:49
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:49
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:39
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:39
+msgid "Disable Updates"
+msgstr ""
+
+#: disableupdates.php:83 wp-disable-updates/trunk/disableupdates.php:101
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:101
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:83
+msgid "Plugin options : "
+msgstr ""
+
+#: disableupdates.php:89 wp-disable-updates/trunk/disableupdates.php:107
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:107
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:89
+msgid "Disable plugins updates : "
+msgstr ""
+
+#: disableupdates.php:98 wp-disable-updates/trunk/disableupdates.php:116
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:116
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:98
+msgid "Disable templates updates : "
+msgstr ""
+
+#: disableupdates.php:106 wp-disable-updates/trunk/disableupdates.php:131
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:131
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:106
+msgid "Disable Wordpress core updates : "
+msgstr ""
+
+#: disableupdates.php:117 wp-disable-updates/trunk/disableupdates.php:142
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:142
+#: wp-disable-updates/tags/1.0.2/disableupdates.php:117
+msgid "Save"
+msgstr ""
+
+#: wp-disable-updates/trunk/disableupdates.php:124
+#: wp-disable-updates/tags/1.1.1/disableupdates.php:124
+msgid "Disable Wordpress Translation update : "
+msgstr ""
+
+#. Name of the plugin
+msgid "Disable plugins / themes updates"
+msgstr ""
+
+#. Description of the plugin
+msgid "Disable update for plugins or themes"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://vinvin.dev/worpdress/plugins/disable-plugins-themes-wordpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "vinvin27"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://vinvin.dev"
+msgstr ""

@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Disable plugins / themes updates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-19 21:46+0000\n"
+"PO-Revision-Date: 2016-10-20 09:58+0000\n"
+"Last-Translator: Vincent <mepps27@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: disableupdates.php:39 disableupdates.php:39
+msgid "Disable Updates"
+msgstr "Desactivar Actualizaciones"
+
+#: disableupdates.php:77
+msgid "Plugin options : "
+msgstr "opciones del plugin :"
+
+#: disableupdates.php:83
+msgid "Disable plugins updates : "
+msgstr ""
+"Desactivar las actualizaciones de plugins:\n"
+
+#: disableupdates.php:92
+msgid "Disable templates updates : "
+msgstr ""
+"Desactivar las actualizaciones de plantillas:\n"
+
+#: disableupdates.php:100
+msgid "Disable Wordpress core updates : "
+msgstr "Desactivar las actualizaciones del núcleo de Wordpress :"
+
+#: disableupdates.php:110
+msgid "Save"
+msgstr "Salvar"
+
+#. Name of the plugin
+msgid "Disable plugins / themes updates"
+msgstr "Desactivar las actualizaciones"
+
+#. Description of the plugin
+msgid "Disable updates for plugins or themes"
+msgstr "Desactivar las actualizaciones"
+
+#. URI of the plugin
+msgid ""
+"https://vincent-guesne.fr/worpdress/plugins/disable-plugins-themes-wordpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Vincent Guesne"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://vincent-guesne.fr"
+msgstr ""
